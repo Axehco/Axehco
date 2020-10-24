@@ -6,15 +6,15 @@
     :wave: Hey! Welcome to my profile
     <br>I am honored to share code with you and make progress together!
     <br>
-    <img src="https://github.com/Axehco/Axehco/tree/main/loading/Kamado-Nezuko.gif" width="150px" height="150px" align="center">
+    <img src="https://github.com/Axehco/Axehco/blob/main/loading/Kamado-Nezuko.gif" width="150px" height="150px" align="center">
     <br><br>:pizza: Take a look at my stats :P<br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=easybzhong&&show_icons=true&&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=axehco&&show_icons=true&&theme=tokyonight" />
   </samp>
 <br>
 </p>
 
 <!--
-**Easybzhong/Easybzhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Axehco/Axehco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
