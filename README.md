@@ -7,7 +7,7 @@
     <br>I am honored to share code with you and make progress together!
     <br>
     <img src="https://github.com/Axehco/Axehco/blob/main/loading/Kamado-Nezuko.gif" width="150px" height="150px" align="center">
-    <br><br>:pizza: Enjoy yourself<br><br><br>
+    <br><br>:pizza: Enjoy yourself<br>
   </samp>
   <img src="https://github.com/Axehco/Axehco/blob/main/loading/dino.gif">
 </p>
