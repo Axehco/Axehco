@@ -9,7 +9,7 @@
     <!-- <img src="https://github.com/Axehco/Axehco/blob/main/loading/Kamado-Nezuko.gif" width="150px" height="150px" align="center"> -->
     <!-- <br><br>:pizza: Enjoy yourself<br> -->
   </samp>
-  <img src="https://github.com/Axehco/Axehco/blob/main/loading/dino.gif">
+<!--   <img src="https://github.com/Axehco/Axehco/blob/main/loading/dino.gif"> -->
 </p>
 
 ## 今年汇总 ✨
